@@ -1,0 +1,28 @@
+header{
+    background-color: whitesmoke;
+    color:#004a8d;
+    padding: 10px;
+    font-family: 'Corporate A', sans-serif;
+}
+nav{
+    background-color: #cb4f0a;
+    color:#004a8d;
+    padding: 5px;
+}
+main{
+    color: #004a8d;
+    height: 548px;
+    background-color: whitesmoke;
+    padding: 10px;
+}
+footer{
+    height: 150px;
+    background-color: blue;
+}
+*{
+    margin:0 auto;
+}
+header,nav,main,footer{
+    width: 90%;
+    box-sizing: border-box;
+}
