@@ -1,0 +1,40 @@
+header{
+    background-color: #F5FFFA;    
+    padding: 10px;
+    font-family: 'Corporate A', sans-serif;
+}
+nav {
+    background-color: #19284c;
+    color: #f5fffa;
+    padding: 5px;
+    display: flex;
+    
+}
+
+ul li a:hover{
+    text-decoration: none;
+    color: #19284c;
+}
+main{
+    
+    height: 548px;
+    background-color: #f5fffa;
+    padding: 10px;
+}
+footer{
+    height: 150px;
+    background-color:#67061d;
+}
+*{    
+    text-decoration: none;
+    color: inherit;
+
+    margin:0 auto;
+    width: 90%;
+}
+header,main{
+    background-color: #f5fffa;
+    color: #19284c;
+    box-sizing: border-box;
+    font-family: "Calisto MT";
+}
